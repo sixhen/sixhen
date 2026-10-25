@@ -95,6 +95,10 @@ operating_status: 🟢 Online & Engineering
 
 <br/><br/>
 
+<!-- 3D Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sixhen&theme=tokyonight" width="100%" />
+
+<br/><br/>
 <!-- Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sixhen/sixhen/output/github-contribution-grid-snake-dark.svg">
