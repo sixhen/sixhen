@@ -1,32 +1,32 @@
 <div align="center">
 
-# âš¡ Hi there, I'm sixhen! âš¡
+# ⚡ Hi there, I'm sixhen! ⚡
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25D0A1&center=true&vcenter=true&width=500&lines=Linux+%26+Android+Enthusiast;Systems+%26+Termux+Developer;Crafting+Fast+%26+Useful+Tools)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://sixhen.github.io">ðŸŒ Personal Website</a> â€¢
-  <a href="#-tech-stack">ðŸ› ï¸ Tech Stack</a> â€¢
-  <a href="#-featured-projects">ðŸš€ Projects</a> â€¢
-  <a href="#-github-metrics">ðŸ“Š Stats</a>
+  <a href="https://sixhen.github.io">🌐 Personal Website</a> •
+  <a href="#-tech-stack">🛠️ Tech Stack</a> •
+  <a href="#-featured-projects">🚀 Projects</a> •
+  <a href="#-github-metrics">📊 Stats</a>
 </p>
 
 ---
 
 </div>
 
-### ðŸš€ About Me
+### 🚀 About Me
 
-- ðŸ§ ChuyÃªn sÃ¢u vá» **Linux**, **Android**, vÃ  mÃ´i trÆ°á»ng **Termux**.
-- ðŸ› ï¸ Äang xÃ¢y dá»±ng vÃ  phÃ¡t triá»ƒn cÃ¡c cÃ´ng cá»¥ tá»‘i Æ°u hÃ³a há»‡ thá»‘ng & server:
-  - [**droid-linux**](https://github.com/sixhen/droid-linux) â€” Tá»‘i Æ°u hÃ³a vÃ  giáº£i phÃ¡p Linux trÃªn Android.
-  - [**termux-nexus**](https://github.com/sixhen/termux-nexus) â€” Há»‡ sinh thÃ¡i tiá»‡n Ã­ch má»Ÿ rá»™ng cho Termux.
-  - [**mc-pulse**](https://github.com/sixhen/mc-pulse) â€” CÃ´ng cá»¥ quáº£n lÃ½ vÃ  giÃ¡m sÃ¡t mÃ¡y chá»§.
-- ðŸŒ Website: [sixhen.github.io](https://sixhen.github.io)
+- 🐧 Chuyên sâu về **Linux**, **Android**, và môi trường **Termux**.
+- 🛠️ Đang xây dựng và phát triển các công cụ tối ưu hóa hệ thống & server:
+  - [**droid-linux**](https://github.com/sixhen/droid-linux) — Tối ưu hóa và giải pháp Linux trên Android.
+  - [**termux-nexus**](https://github.com/sixhen/termux-nexus) — Hệ sinh thái tiện ích mở rộng cho Termux.
+  - [**mc-pulse**](https://github.com/sixhen/mc-pulse) — Công cụ quản lý và giám sát máy chủ.
+- 🌐 Website: [sixhen.github.io](https://sixhen.github.io)
 
 ---
 
-### ðŸ› ï¸ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -47,18 +47,18 @@
 
 ---
 
-### ðŸ“Œ Featured Projects
+### 📌 Featured Projects
 
-| Dá»± Ã¡n | MÃ´ táº£ | Tráº¡ng thÃ¡i |
+| Dự án | Mô tả | Trạng thái |
 |---|---|---|
-| [**droid-linux**](https://github.com/sixhen/droid-linux) | Ná»n táº£ng tÃ­ch há»£p & mÃ´i trÆ°á»ng Linux tá»‘i Æ°u trÃªn ná»n thiáº¿t bá»‹ Android. | ðŸŸ¢ Active |
-| [**termux-nexus**](https://github.com/sixhen/termux-nexus) | Bá»™ script & toolkit toÃ n diá»‡n cho ngÆ°á»i dÃ¹ng Termux nÃ¢ng cao. | ðŸŸ¢ Active |
-| [**mc-pulse**](https://github.com/sixhen/mc-pulse) | CÃ´ng cá»¥ telemetry & quáº£n trá»‹ heartbeat dÃ nh cho mÃ¡y chá»§. | ðŸŸ¢ Active |
-| [**sixhen.github.io**](https://github.com/sixhen/sixhen.github.io) | Portfolio & blog cÃ¡ nhÃ¢n cháº¡y trÃªn ná»n GitHub Pages. | ðŸŒ Online |
+| [**droid-linux**](https://github.com/sixhen/droid-linux) | Nền tảng tích hợp & môi trường Linux tối ưu trên nền thiết bị Android. | 🟢 Active |
+| [**termux-nexus**](https://github.com/sixhen/termux-nexus) | Bộ script & toolkit toàn diện cho người dùng Termux nâng cao. | 🟢 Active |
+| [**mc-pulse**](https://github.com/sixhen/mc-pulse) | Công cụ telemetry & quản trị heartbeat dành cho máy chủ. | 🟢 Active |
+| [**sixhen.github.io**](https://github.com/sixhen/sixhen.github.io) | Portfolio & blog cá nhân chạy trên nền GitHub Pages. | 🌐 Online |
 
 ---
 
-### ðŸ“Š GitHub Metrics
+### 📊 GitHub Metrics
 
 <div align="center">
 
