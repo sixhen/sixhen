@@ -1,53 +1,48 @@
 <div align="center">
 
-<!-- Dynamic Neon Cyber Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,25,32&height=240&section=header&text=sixhen&fontSize=72&fontAlignY=38&desc=Systems%20%E2%80%A2%20Linux%20%E2%80%A2%20Android%20%E2%80%A2%20Server%20Telemetry&descAlignY=58&descSize=19&fontColor=ffffff" width="100%"/>
+<!-- Refined Obsidian Luxury Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,35&height=230&section=header&text=sixhen&fontSize=68&fontAlignY=38&desc=Systems%20Architecture%20%E2%80%A2%20Linux%20%E2%80%A2%20AI-Augmented%20Engineering&descAlignY=58&descSize=17&fontColor=f8fafc" width="100%"/>
 
 <br/>
 
-<!-- AI-Crafted Prominent Badge -->
+<!-- Sleek Luxury Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖_ARCHITECTURE-100%25_TẤT_CẢ_LÀM_BẰNG_AI-8A2BE2?style=for-the-badge&labelColor=0d1117" alt="Tất cả làm bằng AI" />
-  <img src="https://img.shields.io/badge/⚡_POWERED_BY-AI_AGENT_ENGINEERING-38BDF8?style=for-the-badge&labelColor=0d1117" alt="Powered by AI" />
+  <img src="https://img.shields.io/badge/EXECUTIVE_ENGINEERING-AI--AUGMENTED-1e1b4b?style=for-the-badge&logo=openai&logoColor=a5b4fc" alt="AI Augmented" />
+  <img src="https://img.shields.io/badge/DESIGN_DOCTRINE-PURE_MINIMALISM-0f172a?style=for-the-badge&logoColor=f8fafc" alt="Minimalism" />
+  <img src="https://img.shields.io/badge/PRECISION-EXCELLENCE-022c22?style=for-the-badge&logoColor=6ee7b7" alt="Precision" />
 </p>
 
-<!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=620&lines=%C3%8Dt+n%C3%B3i.+Quan+s%C3%A1t+nhi%E1%BB%81u.+L%C3%AC+%C4%91%C3%BAng+l%C3%BAc.;T%E1%BA%A5t+c%E1%BA%A3+h%E1%BB%87+th%E1%BB%91ng+%26+m%C3%A3+ngu%E1%BB%93n+%C4%91%E1%BB%81u+l%C3%A0m+b%E1%BA%B1ng+AI!;Linux+%26+Termux+Architecture+Specialist)](https://git.io/typing-svg)
+<!-- Animated Luxury Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=23&pause=1200&color=E2E8F0&center=true&vcenter=true&width=620&lines=T%E1%BB%91i+gi%E1%BA%A3n+trong+t%C6%B0+duy.+Chu%E1%BA%A9n+x%C3%A1c+trong+h%E1%BB%87+th%E1%BB%91ng.;Architecting+High-Performance+Linux+%26+ARM64;100%25+AI-Synthesized+Architecture+%26+Design)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://sixhen.github.io"><img src="https://img.shields.io/badge/🌐_Website-sixhen.github.io-38bdf8?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://facebook.com/S1xHen"><img src="https://img.shields.io/badge/Facebook-S1xHen-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://discord.com/users/490720573480239104"><img src="https://img.shields.io/badge/Discord-sixhen-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:dmh190229@gmail.com"><img src="https://img.shields.io/badge/Email-dmh190229-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://sixhen.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-sixhen.github.io-0f172a?style=for-the-badge&logoColor=38bdf8" /></a>
+  <a href="https://facebook.com/S1xHen"><img src="https://img.shields.io/badge/Facebook-S1xHen-1e293b?style=for-the-badge&logo=facebook&logoColor=38bdf8" /></a>
+  <a href="https://discord.com/users/490720573480239104"><img src="https://img.shields.io/badge/Discord-sixhen-1e293b?style=for-the-badge&logo=discord&logoColor=818cf8" /></a>
+  <a href="mailto:dmh190229@gmail.com"><img src="https://img.shields.io/badge/Contact-dmh190229-1e293b?style=for-the-badge&logo=gmail&logoColor=f87171" /></a>
 </p>
 
 </div>
 
 ---
 
-### 🤖 Tuyên ngôn Trí tuệ Nhân tạo (AI-First Manifesto)
-
-> 💡 **Lưu ý đặc biệt:** Toàn bộ giao diện, cấu trúc mã nguồn, repository, và hệ sinh thái tài nguyên trên trang cá nhân này **đều được xây dựng và tối ưu hóa 100% bằng Trí tuệ Nhân tạo (AI)**. Khai thác sức mạnh tự động hóa tối đa từ thiết kế đến vận hành.
-
----
-
-### ⚡ Về tôi (Identity & Mindset)
+### 🏛️ Định danh & Tuyên ngôn Kiến trúc (Architecture Doctrine)
 
 ```yaml
-user: sixhen
+identity: sixhen
 location: Nam Định, Việt Nam
-philosophy: "Ít nói. Quan sát nhiều. Lì đúng lúc."
-craft_engine: "100% Pure AI Engineering (Tất cả đều làm bằng AI)"
-focus:
-  - Linux Kernel & Arch / Debian ARM64
+creed: "Tối giản trong tư duy. Tinh tế trong cấu trúc. Chuẩn xác trong thực thi."
+craft_synthesis: "100% AI-Augmented Engineering (Toàn bộ kiến trúc và hệ sinh thái được sáng tạo cùng AI)"
+specializations:
+  - Linux Kernel Optimization & ARM64 Environment
   - Android Chroot / Proot / Termux CLI Systems
-  - Game Server Telemetry & Low-Latency Automation
-current_status: 🟢 Online & AI-Assisted
+  - Game Server Telemetry & Real-Time Performance Analytics
+operating_status: 🟢 Online & Engineering
 ```
 
 ---
 
-### 🛠️ Kỹ năng & Công nghệ (Tech Arsenal)
+### 🛠️ Kỹ năng & Nền tảng Công nghệ (Tech Arsenal)
 
 <div align="center">
 
@@ -59,7 +54,7 @@ current_status: 🟢 Online & AI-Assisted
 
 ---
 
-### 🏆 Thành tích GitHub (Achievements & Trophies)
+### 🏆 Thành tích GitHub (Distinctions & Trophies)
 
 <div align="center">
 
@@ -69,14 +64,14 @@ current_status: 🟢 Online & AI-Assisted
 
 ---
 
-### 🚀 Dự án nổi bật (Core Repositories)
+### 💎 Dự án Tuyển chọn (Featured Repositories)
 
 | Dự án | Lĩnh vực | Mô tả | Trạng thái |
 |---|---|---|:---:|
-| [**droid-linux**](https://github.com/sixhen/droid-linux) | `Android/Linux` | Nền tảng chroot & tối ưu hóa Linux toàn diện trên thiết bị Android | 🟢 Active |
+| [**droid-linux**](https://github.com/sixhen/droid-linux) | `Android/Linux` | Giải pháp môi trường Linux tối ưu hóa hiệu năng cao trên nền thiết bị Android | 🟢 Active |
 | [**termux-nexus**](https://github.com/sixhen/termux-nexus) | `CLI/Toolkit` | Hệ sinh thái script và module tự động hóa nâng cao cho Termux | 🟢 Active |
-| [**mc-pulse**](https://github.com/sixhen/mc-pulse) | `Telemetry/Server` | Công cụ giám sát TPS, RAM & heartbeat máy chủ Minecraft thời gian thực | 🟢 Active |
-| [**sixhen.github.io**](https://github.com/sixhen/sixhen.github.io) | `Web/Bento` | Trang Portfolio cá nhân phong cách Cyber-Bento 2026 (100% AI Made) | 🌐 Online |
+| [**mc-pulse**](https://github.com/sixhen/mc-pulse) | `Telemetry/Server` | Công cụ giám sát TPS, RAM & heartbeat máy chủ thời gian thực | 🟢 Active |
+| [**sixhen.github.io**](https://github.com/sixhen/sixhen.github.io) | `Web/Bento` | Website Portfolio phong cách Cyber-Bento sang trọng (100% AI Crafted) | 🌐 Online |
 
 ---
 
@@ -114,6 +109,6 @@ current_status: 🟢 Online & AI-Assisted
 <div align="center">
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,25,32&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,35&height=90&section=footer" width="100%"/>
 
 </div>
